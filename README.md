@@ -1,4 +1,4 @@
-# 🐝 Cyberbee's Beast Mode Rice
+# 🐝 Cyberbee's Rice
 
 Welcome to my personal Arch Linux configuration, optimized for the **Lenovo LOQ** and a **144Hz** lifestyle. This setup is built for a **CSE student** workflow: programming, cybersecurity, and gaming.
 
