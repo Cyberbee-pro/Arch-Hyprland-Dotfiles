@@ -1,0 +1,12 @@
+# System junk
+.DS_Store
+Thumbs.db
+
+# Hyprland/Wayland temporary files
+*.log
+hyprland.conf.lock
+
+# Sensitive (just in case)
+.env
+*.key
+
